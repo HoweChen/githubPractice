@@ -11,3 +11,5 @@ So right now I am going to test the time machine feature.
 Now I am adding a simple line for testing the cache feature.
 
 I am adding a new branch called dev
+
+creating a new branch is quick AND simple
