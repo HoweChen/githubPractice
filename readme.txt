@@ -13,3 +13,5 @@ Now I am adding a simple line for testing the cache feature.
 I am adding a new branch called dev
 
 Creating a new branch is quick and simple
+
+test the --no-ff mode
